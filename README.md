@@ -16,13 +16,14 @@ YouTube Tutorial: https://youtu.be/lN0oiYqenpA
 Live Demo: https://learntodeploy.com/
 
 ## Quick Start (localhost)
-``digital-ocean-tutorial > npm install``
+``cifrado > npm install``
 
-``digital-ocean-tutorial/client > npm install``
+``cifrado/client > npm install``
 
-``digital-ocean-tutorial/server > npm install``
+``cifrado/server > npm install``
 
-``digital-ocean-tutorial > npm run dev``
+``cifrado > npm run dev``
 
 ## Running on your server (digital ocean)
-``digital-ocean-tutorial > npm run prod``
+``cifrado > npm run prod``
+# cifradoFrameReact
